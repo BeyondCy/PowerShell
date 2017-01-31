@@ -3,6 +3,8 @@
 
 This is my repository.
 
+[logo]: powershell.png
+
 Style Guide
 -------------------
 
