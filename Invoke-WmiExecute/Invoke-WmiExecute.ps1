@@ -1,3 +1,4 @@
+#Requires -Version 2.0
 Function Invoke-WmiExecute {
     <#
     .SYNOPSIS
