@@ -78,7 +78,7 @@ Function Invoke-WmiExecute {
     https://www.blackhat.com/docs/us-15/materials/us-15-Graeber-Abusing-Windows-Management-Instrumentation-WMI-To-Build-A-Persistent%20Asynchronous-And-Fileless-Backdoor-wp.pdf
     http://files.sans.org/summit/dfir-prague-summit-2015/PDFs/Theres-Something-about-WMI-Christopher-Glyer-and-Devon-Kerr.pdf
     #>
-    [CmdletBinding(HelpURI='https://github.com/Cowmonaut/Invoke-WmiExecute', PositionalBinding=1)]
+    [CmdletBinding(HelpURI='https://github.com/Cowmonaut/WMI', PositionalBinding=1)]
     [OutputType([PSObject], ParameterSetName="ScriptBlock")]
     [OutputType([PSObject], ParameterSetName="ScriptFile")]
     Param (
