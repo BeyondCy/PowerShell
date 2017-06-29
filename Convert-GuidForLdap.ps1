@@ -52,7 +52,7 @@ Function Convert-GuidForLdap {
 
     #>
     [CmdletBinding(
-        HelpURI="",
+        HelpURI="https://github.com/Cowmonaut/PowerShell",
         PositionalBinding=$true
     )]
     Param (
